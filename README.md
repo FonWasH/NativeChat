@@ -10,7 +10,7 @@ It's made for roleplay groups, but it works just as well for "wait, where are yo
 
 ---
 
-## Features
+### Features
 
 - **Looks like it belongs.** Same borders, fonts, buttons and sounds as the game's own menus. No floating debug window, no clashing colors.
 - **Words above your head.** Your messages pop up above your character, so speaking in character actually feels like speaking.
@@ -25,14 +25,14 @@ It's made for roleplay groups, but it works just as well for "wait, where are yo
 
 ---
 
-## Requirements
+### Requirements
 
 - **[BG3 Script Extender](https://github.com/Norbyte/bg3se)**: required.
 - **Every player in the group needs the mod** (and the Script Extender) to chat together.
 
 ---
 
-## Installation
+### Installation
 
 1. Install the **BG3 Script Extender** if you don't have it yet.
 2. Open **BG3 Mod Manager** and drag the downloaded zip into it.
@@ -43,14 +43,14 @@ To remove it, deactivate it in the mod manager and save the order again. Nothing
 
 ---
 
-## Compatibility
+### Compatibility
 
 - **Not compatible with mods that change the combat log.** Native Chat takes the combat log's spot and shows it in its own tab, so two mods trying to rearrange the same log won't get along. Pick one.
 - Works with mods that change the hotbar size: the chat moves up and down to stay above it.
 
 ---
 
-## Credits
+### Credits
 
 - **[Larian Studios](https://larian.com)**, for Baldur's Gate 3 and for a game worth talking about.
 - **[Norbyte](https://github.com/Norbyte/bg3se)**, for the Script Extender, without which this chat would be a very quiet mod.
@@ -58,7 +58,7 @@ To remove it, deactivate it in the mod manager and save the order again. Nothing
 
 ---
 
-## Preview
+### Preview
 
 ![Chat](media/Chat.png)
 ![Log](media/Log.png)
