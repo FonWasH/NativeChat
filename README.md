@@ -54,6 +54,7 @@ To remove it, deactivate it in the mod manager and save the order again. Nothing
 
 - **[Larian Studios](https://larian.com)**, for Baldur's Gate 3 and for a game worth talking about.
 - **[Norbyte](https://github.com/Norbyte/bg3se)**, for the Script Extender, without which this chat would be a very quiet mod.
+- **[TheWlr9](https://github.com/TheWlr9), for the overhead text technique from [BG3-Text-Chat](https://github.com/TheWlr9/BG3-Text-Chat).
 - **[Vladimir Krisetskiy](https://www.artstation.com/artwork/ZyBWX)**, for the thumbnail art.
 
 ---
