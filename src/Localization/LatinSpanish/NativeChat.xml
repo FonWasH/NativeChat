@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h320893b3g50a1g47cfg99a1ge5d15edb94e8" version="1"> </content>
+    <content contentuid="hdf187a1egcb6cg5cb9gbd70g02e02467634e" version="1">Editar</content>
+    <content contentuid="he66f3941g684ag53cdg87d4g3830a9c6b2ce" version="1">Cancelar</content>
+    <content contentuid="ha71da956g1ca9g5e96g98a7gdde0665b4254" version="1">Escribe un mensaje...</content>
+    <content contentuid="hd562c7f8g0eb9g57e9gae9eg607e6ec59f79" version="1">%s está escribiendo...</content>
+    <content contentuid="h6a7171f7gd575g566fgb56dga9cd9560c294" version="1">Varias personas están escribiendo...</content>
+    <content contentuid="h9367f92bgdd52g5eb7gafbbg097d0b0b0e98" version="1">~ %s se unió al chat ~</content>
+    <content contentuid="h08dbffb1gaae2g55b1g925cg93b7876b4928" version="1">~ %s salió del chat ~</content>
+    <content contentuid="ha3ac1308g4884g510agb8afgcd5223c3c63a" version="1">(editado)</content>
+    <content contentuid="hd4b1ce98g71e5g5800gb444gd241a588fcf1" version="1">Chat</content>
+    <content contentuid="hfa6e4610g18f7g5da2gb830g8f81fbebd7ca" version="1">Chat (%d)</content>
+    <content contentuid="h35694ed3g3c3fg5330gaf47gab89ba6c0b24" version="1">Registro</content>
+    <content contentuid="hf20680dbgf28eg5588g8b84g880464e95319" version="1">Dados</content>
+    <content contentuid="h252e52a7g9285g5312g837bg1e166b9dc1a8" version="1">Tecla de apertura:</content>
+    <content contentuid="hffd52627g60b2g52cfg92d7g2c4baaa752eb" version="1">Ocultar automáticamente:</content>
+    <content contentuid="h2c5cee9agb3c8g5af1ga3feg6a8ef703edc8" version="1">Texto sobre tu personaje:</content>
+    <content contentuid="h9d5f7f01gabdag541agb338gac12079a645f" version="1">activado</content>
+    <content contentuid="hb1c8285bg9394g5b3bga9aag7c765b85a9ab" version="1">desactivado</content>
+    <content contentuid="h2ef3c06agb03fg5ca1g84c1g314d65430622" version="1">Presiona la nueva tecla de apertura...</content>
+    <content contentuid="h3a41a560g9399g51cbgaf64g049d062d2aac" version="1">Texto más pequeño</content>
+    <content contentuid="ha4e38c53ga60bg59a1gabb2g28643f5922d1" version="1">Texto más grande</content>
+    <content contentuid="haa59c958ge2deg563fg99ccg1f1b000e12df" version="1">Menos opacidad al escribir</content>
+    <content contentuid="h6a4fb167gda09g5ef0g9b6eg6edebc787abf" version="1">Más opacidad al escribir</content>
+    <content contentuid="hbb7f4d7fg12e4g540eg8e32gf6b2fd2e44f1" version="1">Menos opacidad en reposo</content>
+    <content contentuid="hc60d8934g7ca4g5cb7gaaafg355b4bc0b877" version="1">Más opacidad en reposo</content>
+    <content contentuid="h5d067f52g7569g5db2ga7e9g3c2ae719a702" version="1">Activa</content>
+    <content contentuid="h296272dbge0e5g5660ga24cg9e73471bcf1a" version="1">Pasiva</content>
+    <content contentuid="hdb2330e5gfbc0g5105ga519g1e44bf5e372d" version="1">Ventaja</content>
+    <content contentuid="h7f29fd97g9444g5d0bgb9bag8d5d625a8c1f" version="1">%s (CD %d)</content>
+    <content contentuid="h41f900c8gb17dg515fg965ag06eaa8035fc4" version="1">Muy fácil</content>
+    <content contentuid="h46226090gccd7g5669gb115g5b517f889542" version="1">Fácil</content>
+    <content contentuid="h5786403agaea1g5fcdga37cgeb62f64a4a70" version="1">Media</content>
+    <content contentuid="hbd71ec63g658bg53c9g8394gee5f97be9ae8" version="1">Difícil</content>
+    <content contentuid="h83efd87bgf730g5f78g892dg0a768adb0283" version="1">Muy difícil</content>
+    <content contentuid="hfa859373g130dg521cg9162gb26cebe92f41" version="1">Casi imposible</content>
+    <content contentuid="h3651eebfg0979g5b15gb3e0g7d208e69b236" version="1">éxito</content>
+    <content contentuid="hbf91aa44g9438g5805g8b1dga9f0b839f775" version="1">fallo</content>
+    <content contentuid="h0377ae50gd94dg580agacb5g586edc761395" version="1">¡éxito crítico!</content>
+    <content contentuid="h3db97463g4f43g572fgab8dg603f60f63c4d" version="1">¡fallo crítico!</content>
+    <content contentuid="h6101b5c5g5866g5541g98b3g63ffc63d6bff" version="1">tirada cancelada</content>
+    <content contentuid="h0361674dg6eb5g5447g81ccg3d3641a99350" version="1">%s: %s</content>
+    <content contentuid="h938bdf64g5779g5710g9701g53b1970af23b" version="1">~ Esta CD no está disponible, no se pudo hacer la tirada ~</content>
+</contentList>
